@@ -34,3 +34,5 @@ for i in range(how_many):
     print(f"{i + 1}.\t{result}\t[{security}]")
 
 print("\n" + "="*30 + "\nEncryption Complete.")
+
+# .
